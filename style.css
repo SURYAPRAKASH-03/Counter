@@ -1,0 +1,45 @@
+body{
+    
+    background-image: url("image/Screenshot\ 2023-12-09\ 115522.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter:blur(40%);
+}
+.con1{
+    color: black;
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    margin-top: 80px;
+}
+h5{
+    margin-left: 20px;
+    color:white;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.box h3{
+    color: black;
+    margin-left: 30px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.newyear p{
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    font-style: italic;
+}
+p{
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    color: black; 
+}
+.container .box{
+    display: grid ;place-items: center;
+   
+}
+.container{
+    display: grid ;place-items: center;
+}
